@@ -1,1 +1,1 @@
-# tochukwu-af.github.io
+A responsive personal portfolio website built with **HTML**, **CSS**, and **JavaScript** that highlights my software engineering projects, technical skills, education, and professional experience. This site serves as a central hub for recruiters and employers to learn more about my work and access my resume.
